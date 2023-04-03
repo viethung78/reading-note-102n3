@@ -15,4 +15,6 @@ heading ***1 -> 6***
 
 ## Link
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
 ## Image
