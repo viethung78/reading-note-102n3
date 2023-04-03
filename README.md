@@ -16,5 +16,6 @@ heading ***1 -> 6***
 ## Link
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+This is the link [https://google.com](https://google.com)
 
 ## Image
