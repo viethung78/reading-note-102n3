@@ -19,6 +19,7 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 This is the link [https://www.ifashionup.com](https://www.ifashionup.com)
 
-## Image ![image](https://user-images.githubusercontent.com/129761007/230271585-2267c570-f57d-438e-855e-145601c07d43.png 
+
+## Image ![alt](https://user-images.githubusercontent.com/129761007/230271585-2267c570-f57d-438e-855e-145601c07d43.png)
  (Một góc thành phố Hồ Chí Minh)
 
