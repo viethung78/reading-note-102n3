@@ -13,7 +13,7 @@ heading ***1 -> 6***
   - List item 2.2
 - List item 3
 - 
-Tư duy phát triển: (1)  Coi thất bại và thách thức như những cơ hội để phát triển; (2) Trau dồi thêm phẩm chất và tài năng hiện có; (3) Luôn nỗ lực cải thiện bản thân.
+- Tư duy phát triển: (1)  Coi thất bại và thách thức như những cơ hội để phát triển; (2) Trau dồi thêm phẩm chất và tài năng hiện có; (3) Luôn nỗ lực cải thiện bản thân.
 ## Link
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
