@@ -14,3 +14,7 @@ and (4.) the ability to choose from a healthy selection of extensions available 
 3.cd: Để điều hướng qua các tệp và thư mục; 
 4.mkdir: Sử dụng để tạo một thư mục mới; 
 5.touch: Lệnh touch cho phép bạn tạo một file mới.
+
+
+
+        
